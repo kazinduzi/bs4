@@ -1,0 +1,7 @@
+// Variables overrides
+$theme-colors: (
+    "primary": rgb(255, 115, 0)
+);
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";
